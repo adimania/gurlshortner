@@ -12,3 +12,15 @@ GURL Shortner
 | >>> gurlshortner.longify('http://goo.gl/mR2d')
 | {u'status': u'OK', u'kind': u'urlshortener#url', u'id': u'http://goo.gl/mR2d', u'longUrl': u'http://google.com/'}
 
+
+===============
+How to install?
+===============
+
+$ sudo pip install gurlshortner
+
+==================
+Where is the code?
+==================
+
+Check out https://github.com/adimania/gurlshortner
